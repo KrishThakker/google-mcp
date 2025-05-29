@@ -254,7 +254,7 @@ You need to download this tool to your computer. The easiest way is:
 Alternatively, if you're familiar with Git:
 
 ```bash
-git clone https://github.com/ixigo/mcp-google-ads.git
+git clone https://github.com/KrishThakker/google-mcp.git
 ```
 
 ### 4. Install Required Components
